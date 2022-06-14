@@ -6,6 +6,8 @@ public class A {
         B b = new B();
         C c = new C();
 
+        System.out.println("B, Introduce yourself first!");
+        b.sayHello();
     }
 
     void sayHello() {
