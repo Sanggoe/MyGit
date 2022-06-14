@@ -9,6 +9,9 @@ public class A {
         System.out.println("B, Introduce yourself first!");
         b.sayHello();
 
+        System.out.println("your turn, C! introduce yourself.");
+        c.sayHello();
+
         System.out.println("We are the one team now!!");
     }
 
