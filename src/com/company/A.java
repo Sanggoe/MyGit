@@ -6,9 +6,12 @@ public class A {
         B b = new B();
         C c = new C();
 
+
+
+        System.out.println("We are the one team now!!");
     }
 
     void sayHello() {
-
+        System.out.println("Hello, I'm main program, A.");
     }
 }
